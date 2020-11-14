@@ -17,7 +17,7 @@
 ### The Open Source Definition
 #### Introduction
 
-      Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria:
+   Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria:
 
  * 1. Free Redistribution
 
@@ -25,11 +25,13 @@
 
   * 2. Source Code
 
-The program must include source code, and must allow distribution in source code as well as compiled form. Where some form of a product is not distributed with source code, there must be a well-publicized means of obtaining the source code for no more than a reasonable reproduction cost, preferably downloading via the Internet without charge. The source code must be the preferred form in which a programmer would modify the program. Deliberately obfuscated source code is not allowed. Intermediate forms such as the output of a preprocessor or translator are not allowed.
-3. Derived Works
+       The program must include source code, and must allow distribution in source code as well as compiled form. Where some form of a product is not distributed with source code, there must be a well-publicized means of obtaining the source code for no more than a reasonable reproduction cost, preferably downloading via the Internet without charge. The source code must be the preferred form in which a programmer would modify the program. Deliberately obfuscated source code is not allowed. Intermediate forms such as the output of a preprocessor or translator are not allowed.
 
-The license must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software.
-4. Integrity of The Author's Source Code
+  * 3. Derived Works
+
+       The license must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software.
+
+  * 4. Integrity of The Author's Source Code
 
 The license may restrict source-code from being distributed in modified form only if the license allows the distribution of "patch files" with the source code for the purpose of modifying the program at build time. The license must explicitly permit distribution of software built from modified source code. The license may require derived works to carry a different name or version number from the original software.
 5. No Discrimination Against Persons or Groups
