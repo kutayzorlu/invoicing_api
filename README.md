@@ -8,11 +8,14 @@
 
 # Security
 
-  * Se
+  * SSL based transactions
+  * 
 
 # Service Points
 
-  * optikcrm.com/ Services. 
+  * https://DeploymentServer/NODE/invoice
+  * https://DeploymentServer-2/NODE/invoice
+  * Each country has different NODE
 
 ## PHP
   * Generic default CURL used for application requests.
