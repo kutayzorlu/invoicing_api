@@ -5,16 +5,21 @@
   * Professionally for Scientific Libraries implemented backend.
 
 ## PHP
-  * Ganz viele jahren. 
+  * Generic default CURL used for application requests.
   * 
 
 
 
+## Java
+
+  * Apache Library is used for requests. 
 
 
 
 
-### The Open Source Definition
+
+
+## The Open Source Definition
 #### Introduction
 
    Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria:
