@@ -1,6 +1,6 @@
 # Invoicing over memory based professional platforms. 
 
-  * Generic backend
+  * Generic application development.
   * Crypto Money Compatible
   * Professionally for Scientific Libraries implemented backend.
 
