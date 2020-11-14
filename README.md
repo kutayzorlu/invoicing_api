@@ -1,8 +1,10 @@
 # Invoicing over memory based professional platforms. 
 
   * Generic application development.
-  * Crypto Money Compatible. Blockchain Compatible. 
+  * Crypto Money Compatible. 
+  * Blockchain Compatible.  Accessible Multiple Platforms and Decentralized Network.
   * Professionally for Scientific Libraries implemented backend.
+  * Decimal Based sensivitity until (30,20)
 
 # Security
 
