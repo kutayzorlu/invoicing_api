@@ -14,14 +14,16 @@
 
 
 
-The Open Source Definition
-Introduction
+### The Open Source Definition
+#### Introduction
 
-Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria:
-1. Free Redistribution
+      Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria:
 
-The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license shall not require a royalty or other fee for such sale.
-2. Source Code
+ * 1. Free Redistribution
+
+      The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license shall not require a royalty or other fee for such sale.
+
+  * 2. Source Code
 
 The program must include source code, and must allow distribution in source code as well as compiled form. Where some form of a product is not distributed with source code, there must be a well-publicized means of obtaining the source code for no more than a reasonable reproduction cost, preferably downloading via the Internet without charge. The source code must be the preferred form in which a programmer would modify the program. Deliberately obfuscated source code is not allowed. Intermediate forms such as the output of a preprocessor or translator are not allowed.
 3. Derived Works
