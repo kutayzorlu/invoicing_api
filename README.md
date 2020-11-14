@@ -1,8 +1,13 @@
 # Invoicing over memory based professional platforms. 
 
   * Generic application development.
-  * Crypto Money Compatible
+  * Crypto Money Compatible. Blockchain Compatible. 
   * Professionally for Scientific Libraries implemented backend.
+
+# Security
+
+  * Se
+
 
 ## PHP
   * Generic default CURL used for application requests.
