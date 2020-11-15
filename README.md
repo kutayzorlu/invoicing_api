@@ -4,11 +4,17 @@
   * Crypto Money Compatible. 
   * Blockchain Compatible.  Accessible Multiple Platforms and Decentralized Network.
   * Professionally for Scientific Libraries implemented backend.
-  * Decimal Based sensivitity until (30,20)
+  * Decimal Based sensivitity till (30,20).
+  * Thousands of items and records for invoice.
+  * Notice implementation.
+  * Automatic Email Sending.
+  * E-Commerce Modules.
+  * Token Based Access.
 
 # Security
 
   * SSL based transactions
+  * TCP/IP Layer4 Support direct Protocol Access. 
   * 
 
 # Service Points
