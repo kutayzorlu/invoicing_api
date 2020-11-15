@@ -1,4 +1,4 @@
-# Invoicing over memory based professional platforms. 
+# Invoicing over Light Speed(Memory Based) professional platforms. 
 
   * Generic application development.
   * Crypto Money Compatible. 
